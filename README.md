@@ -3,15 +3,8 @@
 
 Complete Playwright test automation course with TypeScript. Best practices, API testing, Page Objects, Advanced features - By Udemy
 
-Description
-Playwright - test automation framework developed by Microsoft. Modern, highly customizable and reliable.
 
-This class covers all fundamental concepts of the framework. We begin from scratch, starting with setup and configuration and then a hands-on framework overview to familiarize yourself with the environment. Then from lesson to lesson, we slowly increase complexity. All lessons have a logical progression and are connected. The next lesson in the section builds up a new concept on top of what was learned in the previous lesson. This is also related to the code demonstrated in the class. We will have two test applications, and slowly over the course will add more and more code uncovering new topics.
-
-How to follow the class
-Watch all lessons in the order they have been published. Write the code from the class along with me. If needed, pause the video to complete the code. Practicing - is the best way to learn. Also, I would recommend watching the lessons in full-screen mode because sometimes the text on the screen can be small and hard to read. If you skip lessons or watch them not in order, be ready that you may have a feeling of a knowledge gap, or that something is not clear.
-
-What you will learn:
+Content:
 
 How to install Playwright from scratch as a new independent project or add to an existing front-end application project.
 
