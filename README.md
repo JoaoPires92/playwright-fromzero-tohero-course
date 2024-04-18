@@ -27,3 +27,8 @@ How to work with APIs: API mocking, API requests, intercept API calls, shared st
 Multiple advanced topics: fixtures, global setup and teardown, parallel execution, test tags, test retries, visual testing, mobile device emulation, reporters, environment variables, and test execution in Docker container.
 
 By the end of the class, you'll be familiar with all important Playwright concepts to be able to automate pretty much any web application.
+
+his is modified and more lightweight version of original application to practice UI Automation with Playwright.
+
+The original repo is here: https://github.com/akveo/ngx-admin
+
