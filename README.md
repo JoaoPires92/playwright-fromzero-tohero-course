@@ -1,7 +1,9 @@
 # playwright-fromzero-tohero-course
 
+#Udemy Training Course
 
-Complete Playwright test automation course with TypeScript. Best practices, API testing, Page Objects, Advanced features - By Udemy
+
+Complete Playwright test automation course with TypeScript. Best practices, API testing, Page Objects, Advanced features
 
 
 Content:
