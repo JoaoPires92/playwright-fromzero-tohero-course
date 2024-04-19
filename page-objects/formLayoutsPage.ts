@@ -7,6 +7,7 @@ export class FormLayoutsPage extends HelperBase {
         super(page)
     }
 
+
     async submitUsingTheGridFormWithCredentialsAndSelectOption(email: string, password: string, optionText: string) {
         const usingTheGridForm = this.page.locator('nb-card', { hasText: "Using the Grid" })
         await usingTheGridForm.getByRole('textbox', { name: "Email" }).fill(email)
