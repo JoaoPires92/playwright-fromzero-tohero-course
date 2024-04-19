@@ -88,9 +88,9 @@ test('extracting values', async ({ page }) => {
 
     // input field value
     const emailField = basicForm.getByRole('textbox', {name: "Email"})
-    await emailField.fill('test@test.com')
+    await emailField.fill('joaopires@test.com')
     const emailValue = await emailField.inputValue()
-    expect(emailValue).toEqual('test@test.com')
+    expect(emailValue).toEqual('joaopires@test.com')
 
     const placeholderValue = await emailField.getAttribute('placeholder')
     expect(placeholderValue).toEqual('Email')
