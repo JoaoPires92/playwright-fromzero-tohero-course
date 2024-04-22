@@ -24,7 +24,7 @@ Content:
 
 -> What is the Page Object Model. How to organize test framework code with Page Objects. Recommended architecture for Page Object model with Playwright ✅
 
--> How to work with APIs: API mocking, API requests, intercept API calls, shared storage state, API authentication -> sepaate repo, follow here: https://github.com/JoaoPires92/playwright-api-test-app
+-> How to work with APIs: API mocking, API requests, intercept API calls, shared storage state, API authentication -> sepaate repo, follow here: https://github.com/JoaoPires92/playwright-api-test-app ✅
 
 -> Multiple advanced topics: fixtures, global setup and teardown, parallel execution, test tags, test retries, visual testing, mobile device emulation, reporters, environment variables, and test execution in Docker container.
 
